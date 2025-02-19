@@ -35,7 +35,7 @@ sidebar-position: 2
 
 :::info
 mapper ส่วนมากไม่นิยมใช้เมนูนี้แล้ว และจะไปตั้งในส่วนของ timing points มากกว่า<br/>
-แนะนำให้ไปดูในส่วนของ [การ hitsound พื้นฐาน](/hitsound/start.md)
+แนะนำให้ไปดูในส่วนของ [การ hitsound พื้นฐาน](/docs/hitsound/start)
 :::
 
 - **Default Sample Settings:** ตั้งค่าเริ่มต้นว่าจะให้โน้ตแต่ละตัวใช้ sample อะไร (Normal, Soft, Drum)
